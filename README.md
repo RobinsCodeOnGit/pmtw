@@ -5,7 +5,7 @@
 usage: main.py [-h] [-l host] [-p port] -e email -c password  
                [-k [keywords [keywords ...]]] [-r [email [email ...]]]  
   
-Which 'wichtel' url should be seached for which keywords?  
+Which 'wichtel' url should be searched for which keywords?  
   
 optional arguments:  
   -h, --help            show this help message and exit  
